@@ -1,0 +1,1 @@
+Tuve un error extraño al querer linkear con un url en linea mi dataset, por lo que lo linkee localmente con la direccion del archivo, por lo que para que el codigo funcione, se deben descargar ambos archivos y ponerlos en una misma carpeta
